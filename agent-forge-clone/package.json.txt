@@ -1,0 +1,8 @@
+{
+  "name": "agent-forge-clone",
+  "version": "1.0.0",
+  "description": "AI Agent Interface",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.20.0"
+  }
+}
